@@ -2,7 +2,7 @@ Pip-installable fork of https://github.com/kylebgorman/syllabify.
 
 Installation:
 ```
-git clone https://github.com/kylebgorman/syllabify.git
+git clone https://github.com/menoua/syllabify.git
 pip install -e syllabify
 ```
 
